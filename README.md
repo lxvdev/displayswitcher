@@ -2,7 +2,7 @@
 ![Logo](https://i.imgur.com/jDwKsii.png)
 
 
-This tool let's you switch between different display tipes.
+This tool let's you switch between different display types.
 
 ## Example
 PC Display Only
