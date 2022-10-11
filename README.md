@@ -14,7 +14,10 @@ Extend Display
 Second Display Only
 ## Installation
 
-Go to my releases and download the project.
+- Go to my releases
+- Download DisplaySwitcher.zip
+- Extract the zip
+- Run DisplaySwitcher.exe
 
 ## Screenshots
 
