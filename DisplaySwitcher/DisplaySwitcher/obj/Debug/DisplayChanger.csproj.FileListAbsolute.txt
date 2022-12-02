@@ -1,0 +1,11 @@
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\bin\Debug\DisplayChanger.exe.config
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\bin\Debug\DisplayChanger.exe
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\bin\Debug\DisplayChanger.pdb
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.csproj.AssemblyReference.cache
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.Form1.resources
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.Properties.Resources.resources
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.csproj.GenerateResource.cache
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.csproj.CoreCompileInputs.cache
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.exe
+C:\Users\on_xz\source\repos\DisplayChanger\DisplayChanger\obj\Debug\DisplayChanger.pdb
